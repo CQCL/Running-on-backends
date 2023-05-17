@@ -1,0 +1,14 @@
+Preliminaries:
+- Making circuits
+- Converting using pytket
+- tket vs myqos and how to manage results
+- Using discopy and lambeq
+
+Backend specifics:
+- IBM
+    - Emulators and noise models
+- Quantinuum
+    - Emulator and real backend
+
+Advanced usage:
+- Qermit
