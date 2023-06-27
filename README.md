@@ -30,4 +30,6 @@ All of these packages and tools have their own documentation in addition to thes
 
 Sources of more information for all these packages can be found at the start of each tutorial notebook.
 
+Tp get started, `git clone` the repo to a location of your choice. The tutorial notebooks are numbered in an order that might be helpful, but should be relatively self-contained.
+
 All the requirements should be in the `requirements.txt` file, so you should be able to install them with `pip install -r requirements.txt`. Make sure to use a virtual environment: `python -m venv venv_name`, then `source venv_name/bin/activate`.
